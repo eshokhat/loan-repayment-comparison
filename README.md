@@ -32,3 +32,7 @@ git clone https://github.com/eshokhat/debt-visualizer.git
 cd debt-visualizer
 pip install -r requirements.txt
 streamlit run app.py
+
+## Run Online
+
+https://eshokhat-debt-visualizer.streamlit.app/
