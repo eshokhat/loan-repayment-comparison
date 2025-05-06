@@ -24,15 +24,21 @@ An interactive financial tool for calculating and visualizing loan repayment sch
 - Pandas
 
 ---
-
 ## Run Locally
+
+Clone the repo and run it with Streamlit:
 
 ```bash
 git clone https://github.com/eshokhat/debt-visualizer.git
 cd debt-visualizer
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+---
 
 ## Run Online
 
-https://eshokhat-debt-visualizer.streamlit.app/
+Try the live app in your browser:
+
+👉 [Open the app on Streamlit Cloud](https://eshokhat-debt-visualizer.streamlit.app)
