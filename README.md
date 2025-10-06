@@ -1,4 +1,4 @@
-# Loan Repayment Comparison Tool
+# Loan Repayment Comparison
 
 An interactive financial tool for calculating and visualizing loan repayment schedules — including **annuity and linear methods**, **custom grace periods**, and support for real-world amortization table uploads (לוח סילוקין).
 
